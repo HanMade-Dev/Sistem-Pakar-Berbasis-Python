@@ -1,0 +1,282 @@
+{
+    "rules": [
+        {
+            "penyakit": "Campak / Morbili (P01)",
+            "gejala": [
+                "G01",
+                "G02",
+                "G03",
+                "G04",
+                "G05",
+                "G06",
+                "G07",
+                "G08"
+            ],
+            "solusi": "Pastikan anak mendapatkan cukup cairan, beri obat penurun demam, dan segera konsultasikan dengan dokter untuk perawatan lebih lanjut."
+        },
+        {
+            "penyakit": "Rubella (Campak Jerman) (P02)",
+            "gejala": [
+                "G02",
+                "G03",
+                "G06",
+                "G09",
+                "G10",
+                "G11",
+                "G12",
+                "G13",
+                "G14"
+            ],
+            "solusi": "Istirahat yang cukup, perbanyak asupan nutrisi, hindari kontak dengan ibu hamil, dan konsultasi dengan dokter segera."
+        },
+        {
+            "penyakit": "Cacar Air / Varisela (P03)",
+            "gejala": [
+                "G09",
+                "G10",
+                "G15",
+                "G16",
+                "G17",
+                "G18"
+            ],
+            "solusi": "Hindari menggaruk ruam, gunakan salep pereda gatal, berikan obat penurun demam jika diperlukan, dan konsultasikan dengan dokter."
+        },
+        {
+            "penyakit": "Sindrom Pipi Merah (Eritema infeksiosa) (P04)",
+            "gejala": [
+                "G03",
+                "G04",
+                "G09",
+                "G19",
+                "G20",
+                "G21",
+                "G22"
+            ],
+            "solusi": "Istirahat cukup, beri obat sesuai anjuran dokter jika diperlukan, dan cegah penyebaran dengan menjaga kebersihan lingkungan."
+        },
+        {
+            "penyakit": "Roseola infantum (P05)",
+            "gejala": [
+                "G01",
+                "G03",
+                "G04",
+                "G06",
+                "G23",
+                "G24",
+                "G25",
+                "G26",
+                "G27",
+                "G28"
+            ],
+            "solusi": "Perbanyak cairan untuk anak, hindari makanan berat, dan segera hubungi dokter jika gejala bertambah parah."
+        },
+        {
+            "penyakit": "Impetigo (P06)",
+            "gejala": [
+                "G29",
+                "G30",
+                "G31",
+                "G32"
+            ],
+            "solusi": "Cuci area terinfeksi dengan sabun antiseptik, gunakan salep antibiotik, dan segera konsultasikan dengan dokter untuk pengobatan lebih lanjut."
+        },
+        {
+            "penyakit": "Demam Berdarah (P07)",
+            "gejala": [
+                "G01",
+                "G03",
+                "G15",
+                "G33",
+                "G34",
+                "G36",
+                "G37",
+                "G38",
+                "G39",
+                "G40",
+                "G41"
+            ],
+            "solusi": "Segera bawa anak ke fasilitas kesehatan terdekat untuk perawatan medis intensif."
+        }
+    ],
+    "gejala_list": [
+        [
+            "Suhu badan di atas 38 derajat Celcius",
+            "G01"
+        ],
+        [
+            "Mata berair dan merah pada bagian konjungtiva",
+            "G02"
+        ],
+        [
+            "Batuk",
+            "G03"
+        ],
+        [
+            "Pilek",
+            "G04"
+        ],
+        [
+            "Bercak putih di dalam rongga mulut",
+            "G05"
+        ],
+        [
+            "Muncul kelainan kemerahan pada kulit",
+            "G06"
+        ],
+        [
+            "Ruam berwarna coklat kemerahan memenuhi tubuh dalam waktu 3 hari",
+            "G07"
+        ],
+        [
+            "Ruam memudar pada hari ke-5 atau ke-6",
+            "G08"
+        ],
+        [
+            "Suhu badan di bawah 38 derajat Celcius",
+            "G09"
+        ],
+        [
+            "Sakit kepala",
+            "G10"
+        ],
+        [
+            "Pembesaran kelenjar getah bening di leher",
+            "G11"
+        ],
+        [
+            "Ruam merah muda muncul dalam waktu 24-48 jam",
+            "G12"
+        ],
+        [
+            "Ruam berupa bintik-bintik kecil merah",
+            "G13"
+        ],
+        [
+            "Ruam memudar pada hari ke-3",
+            "G14"
+        ],
+        [
+            "Mengalami mual",
+            "G15"
+        ],
+        [
+            "Timbul ruam pada kulit",
+            "G16"
+        ],
+        [
+            "Bekas cacar air berbentuk cekungan merah muda",
+            "G17"
+        ],
+        [
+            "Ruam terasa gatal",
+            "G18"
+        ],
+        [
+            "Gangguan pernafasan",
+            "G19"
+        ],
+        [
+            "Pipi anak berwarna merah",
+            "G20"
+        ],
+        [
+            "Sakit tenggorokan",
+            "G21"
+        ],
+        [
+            "Ruam menyebar ke tubuh, tangan, dan kaki",
+            "G22"
+        ],
+        [
+            "Penurunan demam secara drastis",
+            "G23"
+        ],
+        [
+            "Ruam berwarna merah tua",
+            "G24"
+        ],
+        [
+            "Tidak nafsu makan",
+            "G26"
+        ],
+        [
+            "Diare ringan",
+            "G27"
+        ],
+        [
+            "Kejang",
+            "G28"
+        ],
+        [
+            "Infeksi di sekitar mulut",
+            "G29"
+        ],
+        [
+            "Bintik kuning seperti madu",
+            "G30"
+        ],
+        [
+            "Bintik pecah menyebabkan kemerahan",
+            "G31"
+        ],
+        [
+            "Bintik melepuh berisi nanah",
+            "G32"
+        ],
+        [
+            "Demam tinggi 2-7 hari",
+            "G33"
+        ],
+        [
+            "Pendarahan kulit",
+            "G34"
+        ]
+    ],
+    "gejala_categories": {
+        "Demam & Suhu Tubuh": [
+            "G01",
+            "G09",
+            "G33"
+        ],
+        "Gejala Pernapasan": [
+            "G03",
+            "G04",
+            "G19",
+            "G21"
+        ],
+        "Gejala Kulit & Ruam": [
+            "G06",
+            "G07",
+            "G08",
+            "G12",
+            "G13",
+            "G14",
+            "G16",
+            "G17",
+            "G18",
+            "G20",
+            "G22",
+            "G24",
+            "G34"
+        ],
+        "Gejala Mulut & Mata": [
+            "G02",
+            "G05",
+            "G29",
+            "G30",
+            "G31",
+            "G32"
+        ],
+        "Gejala Umum Lainnya": [
+            "G10",
+            "G11",
+            "G15",
+            "G23",
+            "G26",
+            "G27",
+            "G28"
+        ],
+        "Gejala Umum": []
+    },
+    "system_name": "Sistem Pakar Diagnosis Penyakit"
+}
