@@ -2,14 +2,6 @@
 
 This project implements an expert system using Python, leveraging a knowledge base in JSON format to perform diagnoses or provide recommendations based on predefined rules. The system is fully **customizable**, allowing users to modify symptoms, conditions, and even the system's name or title.  
 
-Here’s the updated README with your requested changes:  
-
----
-
-# 🧠 Expert System in Python  
-
-This project is a customizable expert system built with Python. It allows users to modify symptoms, diseases, and even the system’s title through the **Edit System Data** menu. The knowledge base is stored in a JSON file, making it easy to expand and adapt for various use cases.  
-
 ## 📂 Project Structure  
 ```
 📁 assets/                 # Folder for additional assets (images, models, etc.)
